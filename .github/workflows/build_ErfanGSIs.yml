@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://mirrors.lolinet.com/firmware/gsi/HydrogenOS/HydrogenOS-Aonly-10-20191102-ErfanGSI.img-2317.7z
+  ROM_URL: https://mirrors.lolinet.com/firmware/gsi/HydrogenOS/HydrogenOS-AB-10-20191102-ErfanGSI.img-2317.7z
   ROM_NAME: HydrogenOS
   TZ: Asia/Shanghai
 
